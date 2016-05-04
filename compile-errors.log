@@ -1,0 +1,22 @@
+/home/ubuntu/workspace/zmailer/ext/zmailer/zmailer.zep.c: In function ‘zim_ZMailer_ZMailer_strip_html_tags’:
+/home/ubuntu/workspace/zmailer/ext/zmailer/zmailer.zep.c:1390:28: warning: unknown escape sequence: '\$' [enabled by default]
+  ZVAL_STRING(_1, "\n\$0", 1);
+                            ^
+/home/ubuntu/workspace/zmailer/ext/zmailer/zmailer.zep.c:1393:28: warning: unknown escape sequence: '\$' [enabled by default]
+  ZVAL_STRING(_1, "\n\$0", 1);
+                            ^
+/home/ubuntu/workspace/zmailer/ext/zmailer/zmailer.zep.c:1396:28: warning: unknown escape sequence: '\$' [enabled by default]
+  ZVAL_STRING(_1, "\n\$0", 1);
+                            ^
+/home/ubuntu/workspace/zmailer/ext/zmailer/zmailer.zep.c:1399:28: warning: unknown escape sequence: '\$' [enabled by default]
+  ZVAL_STRING(_1, "\n\$0", 1);
+                            ^
+/home/ubuntu/workspace/zmailer/ext/zmailer/zmailer.zep.c:1402:28: warning: unknown escape sequence: '\$' [enabled by default]
+  ZVAL_STRING(_1, "\n\$0", 1);
+                            ^
+/home/ubuntu/workspace/zmailer/ext/zmailer/zmailer.zep.c:1405:28: warning: unknown escape sequence: '\$' [enabled by default]
+  ZVAL_STRING(_1, "\n\$0", 1);
+                            ^
+/home/ubuntu/workspace/zmailer/ext/zmailer/zmailer.zep.c:1408:28: warning: unknown escape sequence: '\$' [enabled by default]
+  ZVAL_STRING(_1, "\n\$0", 1);
+                            ^
